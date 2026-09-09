@@ -1,0 +1,25 @@
+# Byte-compiled / optimised files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments and secrets
+.env
+.env.*
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Django
+*.log
+local_settings.py
